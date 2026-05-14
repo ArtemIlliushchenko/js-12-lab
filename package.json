@@ -1,0 +1,25 @@
+{
+  "name": "js-12-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtemIlliushchenko/js-12-lab.git"
+  },
+  "keywords": [],
+  "author": "Artem Illyushchenko <artemillushchenko30@gmail.com>",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ArtemIlliushchenko/js-12-lab/issues"
+  },
+  "homepage": "https://github.com/ArtemIlliushchenko/js-12-lab#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.7.0",
+    "allure-commandline": "^2.41.0",
+    "allure-playwright": "^3.8.0"
+  }
+}
